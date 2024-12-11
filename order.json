@@ -1,0 +1,1 @@
+{"order_id": "O0001","customer": {"name": "주문자","is_member": true},"items": [{"product_id": "P0001","quantity": 1,"price": 100000}],"total_price": 100000,"paid": true,"delivery": {"method": "택배","estimated_delivery": "2024-12-12"}}
